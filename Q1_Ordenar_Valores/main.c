@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* Crie uma aplicaÁ„o que solicite do usu·rio 3 valores inteiros quaisquer em qualquer ordem,
-os valores dever„o ser apresentados ordenados */
+/* Crie uma aplica√ß√£o que solicite do usu√°rio 3 valores inteiros quaisquer em qualquer ordem,
+os valores dever√£o ser apresentados ordenados */
 
 int main(int argc, char *argv[]) {
 	//Variaveis
@@ -44,7 +44,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("Os valores ordenados sao: %d, %d, %d", v1, v2, v3);
 	
-	
+	// Final do m√©todo
 	
 	return 0;
 }
