@@ -61,7 +61,7 @@ int main(int argc, char *argv[]) {
 		
 		if(opcao == 1){
 		 printf("- Opcao 1 selecionada - \n");
-		 printf("- Adicione os valores para o VetorA - \n");
+		 printf("- Adicione os valores para o VetorA - \n")
 		 for(l = 0; l < 10; l++){
 		 	scanf("%d", &vetora[l]);
 		 }	
